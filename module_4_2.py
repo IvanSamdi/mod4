@@ -6,4 +6,4 @@ def test_function():
 
 
 test_function()
-# inner_function() Ошибка из-за вызова функции вне пределов ее видимости
+#inner_function() Ошибка из-за вызова функции вне пределов ее видимости
